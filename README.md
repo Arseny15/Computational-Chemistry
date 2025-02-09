@@ -1,0 +1,2 @@
+# Bayesian-Optimization-and-in-Organic-Synthesis-Maximizing-Reaction-Yields
+This project applies Bayesian Optimization (BO) in organic synthesis to efficiently maximize reaction yields by leveraging Gaussian Processes (GPs), computational chemistry tools (e.g., DFT, ML models), and acquisition functions like Expected Improvement (EI) to optimize reaction conditions while reducing experimental costs.

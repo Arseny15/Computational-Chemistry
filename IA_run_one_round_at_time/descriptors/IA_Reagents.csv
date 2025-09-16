@@ -1,0 +1,5 @@
+﻿REAGENT_0_SMILES,REAGENT_dipole,REAGENT_atom_n,REAGENT_m_mass
+O=C([O-])C(C)(C)C.[Cs+],10.5053,17,234.02
+O=C([O-])C(C)(C)C.[K+],8.5745,17,140.22
+O=C([O-])C.[Cs+],9.9259,8,191.94
+O=C([O-])C.[K+],8.0945,8,98.14

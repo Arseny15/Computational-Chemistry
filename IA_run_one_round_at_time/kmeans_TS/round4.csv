@@ -1,0 +1,8 @@
+,reagent_SMILES_index,solvent_SMILES_index,catalyst_one_SMILES_index,solvent_conc_index,temperature_index,yield
+87,O=C([O-])C(C)(C)C.[K+],CC(N(C)C)=O,C1(P(C2CCCCC2)C3CCCCC3)=CC=CC=C1C4=CC=CC=C4,98.039215,120,<Enter Response>
+195,O=C([O-])C.[Cs+],CCCCOC(C)=O,C1(P(C2CCCCC2)C3CCCCC3)=CC=CC=C1C4=CC=CC=C4,98.039215,120,<Enter Response>
+223,O=C([O-])C(C)(C)C.[Cs+],CC(N(C)C)=O,P(C1=CC=CC=C1)(C2CCCCC2)C3=CC=CC=C3,98.039215,105,<Enter Response>
+84,O=C([O-])C(C)(C)C.[K+],CC(N(C)C)=O,C1(P(C2CCCCC2)C3CCCCC3)=CC=CC=C1C4=CC=CC=C4,150.0,120,<Enter Response>
+204,O=C([O-])C.[Cs+],CC1=CC=C(C)C=C1,P(C1=CC=CC=C1)(C2CCCCC2)C3=CC=CC=C3,98.039215,120,<Enter Response>
+54,O=C([O-])C.[K+],CC1=CC=C(C)C=C1,P(C1=CC=CC=C1)(C2CCCCC2)C3=CC=CC=C3,263.1579,120,<Enter Response>
+7,O=C([O-])C.[K+],CC(N(C)C)=O,P(C1=CC=CC=C1)(C2CCCCC2)C3=CC=CC=C3,98.039215,105,<Enter Response>
